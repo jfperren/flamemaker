@@ -21,7 +21,7 @@ Julien Perrenoud
 
 Name : FlameMaker
 
-Authors : [@jfperren](https://github.com/jfperren) & [@agpmilli](https://github.com/jfperren)
+Authors : [@jfperren](https://github.com/jfperren) & [@agpmilli](https://github.com/agpmilli)
 
 Date of Creation : Spring 2013
 
