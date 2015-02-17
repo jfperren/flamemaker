@@ -58,7 +58,7 @@
         </java>
     </target>
   	<target name="jar">
-	  	<jar destfile = "./FlameMakerBonus.jar"
+	  	<jar destfile = "./FlameMaker.jar"
 	  	basedir="./bin">
 	  		<manifest>
 	  		    <attribute name="Main-Class" value="ch.epfl.flamemaker.gui.FlameMakerBonus"/>
